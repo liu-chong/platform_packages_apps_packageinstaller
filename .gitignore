@@ -1,5 +1,3 @@
-bin/
-gen/
-.project
-.classpath
-project.properties
+build/
+.externalNativeBuild/
+.gradle
